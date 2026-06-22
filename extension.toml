@@ -1,0 +1,7 @@
+id = "zed-vercel-italics"
+name = "Vercel Italics"
+version = "0.1.0"
+schema_version = 1
+authors = ["Cibi Aananth <github.com/CibiAananth>"]
+description = "Vercel light and dark themes with Night Owl italic syntax styling."
+repository = "https://github.com/CibiAananth/zed-vercel-italics"
